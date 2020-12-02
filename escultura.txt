@@ -1,0 +1,10 @@
+dim 100 100 100
+putvoxel 0 0 0 0.8 0.0 0.0 1.0
+putvoxel 2 2 2 0.8 0.0 0.0 1.0
+cutvoxel 2 2 2 
+putbox 20 30 20 30 20 30 0.8 0.5 0.3 1.0
+cutbox 25 30 25 30 25 30
+putsphere 10 10 10 10 0.4 0.2 0.8 1.0
+cutsphere 15 15 15 10
+putellipsoid 40 40 40 15 10 5 0.2 0.8 0.3 1.0
+cutellipsoid 45 45 45 10 8 5
